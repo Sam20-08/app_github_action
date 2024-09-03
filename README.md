@@ -1,1 +1,1 @@
-## This is python app and for GitHub action
+## This is python app using GitHub action
